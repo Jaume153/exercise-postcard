@@ -1,0 +1,45 @@
+{
+  "success": false,
+  "numFailedTestSuites": 0,
+  "numFailedTests": 0,
+  "numPassedTests": 8,
+  "testResults": [
+    {
+      "message": null
+    }
+  ],
+  "failed": [
+    {
+      "title": "Make sure you have your index.html",
+      "status": "passed"
+    },
+    {
+      "title": "Make sure you created the styles.css file",
+      "status": "passed"
+    },
+    {
+      "title": "Make sure your index.html contains the <head> tag",
+      "status": "passed"
+    },
+    {
+      "title": "Create a .postcard selector on your stylesheet",
+      "status": "passed"
+    },
+    {
+      "title": "The .postcard class should have a white background",
+      "status": "passed"
+    },
+    {
+      "title": "The .postcard class should have 400px of width",
+      "status": "passed"
+    },
+    {
+      "title": "The .postcard class should have 300px of height",
+      "status": "passed"
+    },
+    {
+      "title": "The .postcard class should have margin auto",
+      "status": "passed"
+    }
+  ]
+}
