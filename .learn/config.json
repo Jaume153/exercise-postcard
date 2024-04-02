@@ -80,7 +80,7 @@
         ]
     },
     "address": "https://automatic-trout-q7v49qrq9w54f46w6.github.dev",
-    "currentExercise": "00-welcome",
+    "currentExercise": "12.1-body-content",
     "exercises": [
         {
             "position": 0,
@@ -90,20 +90,70 @@
                 "es": "README.es.md",
                 "us": "README.md"
             },
-            "language": null,
-            "entry": null,
+            "language": "html",
+            "entry": "index.html",
             "title": "00-welcome",
             "graded": false,
             "files": [
                 {
-                    "path": ".learn/exercises/00-welcome/README.es.md",
+                    "path": "./.devcontainer",
+                    "name": ".devcontainer",
+                    "hidden": true
+                },
+                {
+                    "path": "./.git",
+                    "name": ".git",
+                    "hidden": true
+                },
+                {
+                    "path": "./.github",
+                    "name": ".github",
+                    "hidden": true
+                },
+                {
+                    "path": "./.gitpod.Dockerfile",
+                    "name": ".gitpod.Dockerfile",
+                    "hidden": true
+                },
+                {
+                    "path": "./.gitpod.yml",
+                    "name": ".gitpod.yml",
+                    "hidden": true
+                },
+                {
+                    "path": "./.learn",
+                    "name": ".learn",
+                    "hidden": true
+                },
+                {
+                    "path": "./.vscode",
+                    "name": ".vscode",
+                    "hidden": true
+                },
+                {
+                    "path": "./README.es.md",
                     "name": "README.es.md",
                     "hidden": true
                 },
                 {
-                    "path": ".learn/exercises/00-welcome/README.md",
+                    "path": "./README.md",
                     "name": "README.md",
                     "hidden": true
+                },
+                {
+                    "path": "./index.html",
+                    "name": "index.html",
+                    "hidden": false
+                },
+                {
+                    "path": "./learn.json",
+                    "name": "learn.json",
+                    "hidden": true
+                },
+                {
+                    "path": "./styles.css",
+                    "name": "styles.css",
+                    "hidden": false
                 }
             ],
             "done": false
@@ -116,20 +166,70 @@
                 "es": "README.es.md",
                 "us": "README.md"
             },
-            "language": null,
-            "entry": null,
+            "language": "html",
+            "entry": "index.html",
             "title": "01-design",
             "graded": false,
             "files": [
                 {
-                    "path": ".learn/exercises/01-design/README.es.md",
+                    "path": "./.devcontainer",
+                    "name": ".devcontainer",
+                    "hidden": true
+                },
+                {
+                    "path": "./.git",
+                    "name": ".git",
+                    "hidden": true
+                },
+                {
+                    "path": "./.github",
+                    "name": ".github",
+                    "hidden": true
+                },
+                {
+                    "path": "./.gitpod.Dockerfile",
+                    "name": ".gitpod.Dockerfile",
+                    "hidden": true
+                },
+                {
+                    "path": "./.gitpod.yml",
+                    "name": ".gitpod.yml",
+                    "hidden": true
+                },
+                {
+                    "path": "./.learn",
+                    "name": ".learn",
+                    "hidden": true
+                },
+                {
+                    "path": "./.vscode",
+                    "name": ".vscode",
+                    "hidden": true
+                },
+                {
+                    "path": "./README.es.md",
                     "name": "README.es.md",
                     "hidden": true
                 },
                 {
-                    "path": ".learn/exercises/01-design/README.md",
+                    "path": "./README.md",
                     "name": "README.md",
                     "hidden": true
+                },
+                {
+                    "path": "./index.html",
+                    "name": "index.html",
+                    "hidden": false
+                },
+                {
+                    "path": "./learn.json",
+                    "name": "learn.json",
+                    "hidden": true
+                },
+                {
+                    "path": "./styles.css",
+                    "name": "styles.css",
+                    "hidden": false
                 }
             ],
             "done": false
@@ -142,25 +242,75 @@
                 "es": "README.es.md",
                 "us": "README.md"
             },
-            "language": "node",
-            "entry": null,
+            "language": "html",
+            "entry": "index.html",
             "title": "02-create-index",
             "graded": true,
             "files": [
                 {
-                    "path": ".learn/exercises/02-create-index/README.es.md",
+                    "path": ".learn/exercises/02-create-index/test.js",
+                    "name": "test.js",
+                    "hidden": true
+                },
+                {
+                    "path": "./.devcontainer",
+                    "name": ".devcontainer",
+                    "hidden": true
+                },
+                {
+                    "path": "./.git",
+                    "name": ".git",
+                    "hidden": true
+                },
+                {
+                    "path": "./.github",
+                    "name": ".github",
+                    "hidden": true
+                },
+                {
+                    "path": "./.gitpod.Dockerfile",
+                    "name": ".gitpod.Dockerfile",
+                    "hidden": true
+                },
+                {
+                    "path": "./.gitpod.yml",
+                    "name": ".gitpod.yml",
+                    "hidden": true
+                },
+                {
+                    "path": "./.learn",
+                    "name": ".learn",
+                    "hidden": true
+                },
+                {
+                    "path": "./.vscode",
+                    "name": ".vscode",
+                    "hidden": true
+                },
+                {
+                    "path": "./README.es.md",
                     "name": "README.es.md",
                     "hidden": true
                 },
                 {
-                    "path": ".learn/exercises/02-create-index/README.md",
+                    "path": "./README.md",
                     "name": "README.md",
                     "hidden": true
                 },
                 {
-                    "path": ".learn/exercises/02-create-index/test.js",
-                    "name": "test.js",
+                    "path": "./index.html",
+                    "name": "index.html",
+                    "hidden": false
+                },
+                {
+                    "path": "./learn.json",
+                    "name": "learn.json",
                     "hidden": true
+                },
+                {
+                    "path": "./styles.css",
+                    "name": "styles.css",
+                    "hidden": false
                 }
             ],
             "done": true
@@ -173,20 +323,70 @@
                 "es": "README.es.md",
                 "us": "README.md"
             },
-            "language": null,
-            "entry": null,
+            "language": "html",
+            "entry": "index.html",
             "title": "03-add-first-html",
             "graded": false,
             "files": [
                 {
-                    "path": ".learn/exercises/03-add-first-html/README.es.md",
+                    "path": "./.devcontainer",
+                    "name": ".devcontainer",
+                    "hidden": true
+                },
+                {
+                    "path": "./.git",
+                    "name": ".git",
+                    "hidden": true
+                },
+                {
+                    "path": "./.github",
+                    "name": ".github",
+                    "hidden": true
+                },
+                {
+                    "path": "./.gitpod.Dockerfile",
+                    "name": ".gitpod.Dockerfile",
+                    "hidden": true
+                },
+                {
+                    "path": "./.gitpod.yml",
+                    "name": ".gitpod.yml",
+                    "hidden": true
+                },
+                {
+                    "path": "./.learn",
+                    "name": ".learn",
+                    "hidden": true
+                },
+                {
+                    "path": "./.vscode",
+                    "name": ".vscode",
+                    "hidden": true
+                },
+                {
+                    "path": "./README.es.md",
                     "name": "README.es.md",
                     "hidden": true
                 },
                 {
-                    "path": ".learn/exercises/03-add-first-html/README.md",
+                    "path": "./README.md",
                     "name": "README.md",
                     "hidden": true
+                },
+                {
+                    "path": "./index.html",
+                    "name": "index.html",
+                    "hidden": false
+                },
+                {
+                    "path": "./learn.json",
+                    "name": "learn.json",
+                    "hidden": true
+                },
+                {
+                    "path": "./styles.css",
+                    "name": "styles.css",
+                    "hidden": false
                 }
             ],
             "done": false
@@ -199,20 +399,70 @@
                 "es": "README.es.md",
                 "us": "README.md"
             },
-            "language": null,
-            "entry": null,
+            "language": "html",
+            "entry": "index.html",
             "title": "04-build-the-website",
             "graded": false,
             "files": [
                 {
-                    "path": ".learn/exercises/04-build-the-website/README.es.md",
+                    "path": "./.devcontainer",
+                    "name": ".devcontainer",
+                    "hidden": true
+                },
+                {
+                    "path": "./.git",
+                    "name": ".git",
+                    "hidden": true
+                },
+                {
+                    "path": "./.github",
+                    "name": ".github",
+                    "hidden": true
+                },
+                {
+                    "path": "./.gitpod.Dockerfile",
+                    "name": ".gitpod.Dockerfile",
+                    "hidden": true
+                },
+                {
+                    "path": "./.gitpod.yml",
+                    "name": ".gitpod.yml",
+                    "hidden": true
+                },
+                {
+                    "path": "./.learn",
+                    "name": ".learn",
+                    "hidden": true
+                },
+                {
+                    "path": "./.vscode",
+                    "name": ".vscode",
+                    "hidden": true
+                },
+                {
+                    "path": "./README.es.md",
                     "name": "README.es.md",
                     "hidden": true
                 },
                 {
-                    "path": ".learn/exercises/04-build-the-website/README.md",
+                    "path": "./README.md",
                     "name": "README.md",
                     "hidden": true
+                },
+                {
+                    "path": "./index.html",
+                    "name": "index.html",
+                    "hidden": false
+                },
+                {
+                    "path": "./learn.json",
+                    "name": "learn.json",
+                    "hidden": true
+                },
+                {
+                    "path": "./styles.css",
+                    "name": "styles.css",
+                    "hidden": false
                 }
             ],
             "done": false
@@ -225,20 +475,70 @@
                 "es": "README.es.md",
                 "us": "README.md"
             },
-            "language": null,
-            "entry": null,
+            "language": "html",
+            "entry": "index.html",
             "title": "05-how-to-start",
             "graded": false,
             "files": [
                 {
-                    "path": ".learn/exercises/05-how-to-start/README.es.md",
+                    "path": "./.devcontainer",
+                    "name": ".devcontainer",
+                    "hidden": true
+                },
+                {
+                    "path": "./.git",
+                    "name": ".git",
+                    "hidden": true
+                },
+                {
+                    "path": "./.github",
+                    "name": ".github",
+                    "hidden": true
+                },
+                {
+                    "path": "./.gitpod.Dockerfile",
+                    "name": ".gitpod.Dockerfile",
+                    "hidden": true
+                },
+                {
+                    "path": "./.gitpod.yml",
+                    "name": ".gitpod.yml",
+                    "hidden": true
+                },
+                {
+                    "path": "./.learn",
+                    "name": ".learn",
+                    "hidden": true
+                },
+                {
+                    "path": "./.vscode",
+                    "name": ".vscode",
+                    "hidden": true
+                },
+                {
+                    "path": "./README.es.md",
                     "name": "README.es.md",
                     "hidden": true
                 },
                 {
-                    "path": ".learn/exercises/05-how-to-start/README.md",
+                    "path": "./README.md",
                     "name": "README.md",
                     "hidden": true
+                },
+                {
+                    "path": "./index.html",
+                    "name": "index.html",
+                    "hidden": false
+                },
+                {
+                    "path": "./learn.json",
+                    "name": "learn.json",
+                    "hidden": true
+                },
+                {
+                    "path": "./styles.css",
+                    "name": "styles.css",
+                    "hidden": false
                 }
             ],
             "done": false
@@ -251,25 +551,75 @@
                 "es": "README.es.md",
                 "us": "README.md"
             },
-            "language": "node",
-            "entry": null,
+            "language": "html",
+            "entry": "index.html",
             "title": "06-lets-start-building",
             "graded": true,
             "files": [
                 {
-                    "path": ".learn/exercises/06-lets-start-building/README.es.md",
+                    "path": ".learn/exercises/06-lets-start-building/test.js",
+                    "name": "test.js",
+                    "hidden": true
+                },
+                {
+                    "path": "./.devcontainer",
+                    "name": ".devcontainer",
+                    "hidden": true
+                },
+                {
+                    "path": "./.git",
+                    "name": ".git",
+                    "hidden": true
+                },
+                {
+                    "path": "./.github",
+                    "name": ".github",
+                    "hidden": true
+                },
+                {
+                    "path": "./.gitpod.Dockerfile",
+                    "name": ".gitpod.Dockerfile",
+                    "hidden": true
+                },
+                {
+                    "path": "./.gitpod.yml",
+                    "name": ".gitpod.yml",
+                    "hidden": true
+                },
+                {
+                    "path": "./.learn",
+                    "name": ".learn",
+                    "hidden": true
+                },
+                {
+                    "path": "./.vscode",
+                    "name": ".vscode",
+                    "hidden": true
+                },
+                {
+                    "path": "./README.es.md",
                     "name": "README.es.md",
                     "hidden": true
                 },
                 {
-                    "path": ".learn/exercises/06-lets-start-building/README.md",
+                    "path": "./README.md",
                     "name": "README.md",
                     "hidden": true
                 },
                 {
-                    "path": ".learn/exercises/06-lets-start-building/test.js",
-                    "name": "test.js",
+                    "path": "./index.html",
+                    "name": "index.html",
+                    "hidden": false
+                },
+                {
+                    "path": "./learn.json",
+                    "name": "learn.json",
                     "hidden": true
+                },
+                {
+                    "path": "./styles.css",
+                    "name": "styles.css",
+                    "hidden": false
                 }
             ],
             "done": true
@@ -282,25 +632,75 @@
                 "es": "README.es.md",
                 "us": "README.md"
             },
-            "language": "node",
-            "entry": null,
+            "language": "html",
+            "entry": "index.html",
             "title": "07-the-first-div",
             "graded": true,
             "files": [
                 {
-                    "path": ".learn/exercises/07-the-first-div/README.es.md",
+                    "path": ".learn/exercises/07-the-first-div/test.js",
+                    "name": "test.js",
+                    "hidden": true
+                },
+                {
+                    "path": "./.devcontainer",
+                    "name": ".devcontainer",
+                    "hidden": true
+                },
+                {
+                    "path": "./.git",
+                    "name": ".git",
+                    "hidden": true
+                },
+                {
+                    "path": "./.github",
+                    "name": ".github",
+                    "hidden": true
+                },
+                {
+                    "path": "./.gitpod.Dockerfile",
+                    "name": ".gitpod.Dockerfile",
+                    "hidden": true
+                },
+                {
+                    "path": "./.gitpod.yml",
+                    "name": ".gitpod.yml",
+                    "hidden": true
+                },
+                {
+                    "path": "./.learn",
+                    "name": ".learn",
+                    "hidden": true
+                },
+                {
+                    "path": "./.vscode",
+                    "name": ".vscode",
+                    "hidden": true
+                },
+                {
+                    "path": "./README.es.md",
                     "name": "README.es.md",
                     "hidden": true
                 },
                 {
-                    "path": ".learn/exercises/07-the-first-div/README.md",
+                    "path": "./README.md",
                     "name": "README.md",
                     "hidden": true
                 },
                 {
-                    "path": ".learn/exercises/07-the-first-div/test.js",
-                    "name": "test.js",
+                    "path": "./index.html",
+                    "name": "index.html",
+                    "hidden": false
+                },
+                {
+                    "path": "./learn.json",
+                    "name": "learn.json",
                     "hidden": true
+                },
+                {
+                    "path": "./styles.css",
+                    "name": "styles.css",
+                    "hidden": false
                 }
             ],
             "done": true
@@ -313,25 +713,75 @@
                 "es": "README.es.md",
                 "us": "README.md"
             },
-            "language": "node",
-            "entry": null,
+            "language": "html",
+            "entry": "index.html",
             "title": "08-adding-styles",
             "graded": true,
             "files": [
                 {
-                    "path": ".learn/exercises/08-adding-styles/README.es.md",
+                    "path": ".learn/exercises/08-adding-styles/test.js",
+                    "name": "test.js",
+                    "hidden": true
+                },
+                {
+                    "path": "./.devcontainer",
+                    "name": ".devcontainer",
+                    "hidden": true
+                },
+                {
+                    "path": "./.git",
+                    "name": ".git",
+                    "hidden": true
+                },
+                {
+                    "path": "./.github",
+                    "name": ".github",
+                    "hidden": true
+                },
+                {
+                    "path": "./.gitpod.Dockerfile",
+                    "name": ".gitpod.Dockerfile",
+                    "hidden": true
+                },
+                {
+                    "path": "./.gitpod.yml",
+                    "name": ".gitpod.yml",
+                    "hidden": true
+                },
+                {
+                    "path": "./.learn",
+                    "name": ".learn",
+                    "hidden": true
+                },
+                {
+                    "path": "./.vscode",
+                    "name": ".vscode",
+                    "hidden": true
+                },
+                {
+                    "path": "./README.es.md",
                     "name": "README.es.md",
                     "hidden": true
                 },
                 {
-                    "path": ".learn/exercises/08-adding-styles/README.md",
+                    "path": "./README.md",
                     "name": "README.md",
                     "hidden": true
                 },
                 {
-                    "path": ".learn/exercises/08-adding-styles/test.js",
-                    "name": "test.js",
+                    "path": "./index.html",
+                    "name": "index.html",
+                    "hidden": false
+                },
+                {
+                    "path": "./learn.json",
+                    "name": "learn.json",
                     "hidden": true
+                },
+                {
+                    "path": "./styles.css",
+                    "name": "styles.css",
+                    "hidden": false
                 }
             ],
             "done": true
@@ -344,25 +794,75 @@
                 "es": "README.es.md",
                 "us": "README.md"
             },
-            "language": "node",
-            "entry": null,
+            "language": "html",
+            "entry": "index.html",
             "title": "08.1-red-borders",
             "graded": true,
             "files": [
                 {
-                    "path": ".learn/exercises/08.1-red-borders/README.es.md",
+                    "path": ".learn/exercises/08.1-red-borders/test.js",
+                    "name": "test.js",
+                    "hidden": true
+                },
+                {
+                    "path": "./.devcontainer",
+                    "name": ".devcontainer",
+                    "hidden": true
+                },
+                {
+                    "path": "./.git",
+                    "name": ".git",
+                    "hidden": true
+                },
+                {
+                    "path": "./.github",
+                    "name": ".github",
+                    "hidden": true
+                },
+                {
+                    "path": "./.gitpod.Dockerfile",
+                    "name": ".gitpod.Dockerfile",
+                    "hidden": true
+                },
+                {
+                    "path": "./.gitpod.yml",
+                    "name": ".gitpod.yml",
+                    "hidden": true
+                },
+                {
+                    "path": "./.learn",
+                    "name": ".learn",
+                    "hidden": true
+                },
+                {
+                    "path": "./.vscode",
+                    "name": ".vscode",
+                    "hidden": true
+                },
+                {
+                    "path": "./README.es.md",
                     "name": "README.es.md",
                     "hidden": true
                 },
                 {
-                    "path": ".learn/exercises/08.1-red-borders/README.md",
+                    "path": "./README.md",
                     "name": "README.md",
                     "hidden": true
                 },
                 {
-                    "path": ".learn/exercises/08.1-red-borders/test.js",
-                    "name": "test.js",
+                    "path": "./index.html",
+                    "name": "index.html",
+                    "hidden": false
+                },
+                {
+                    "path": "./learn.json",
+                    "name": "learn.json",
                     "hidden": true
+                },
+                {
+                    "path": "./styles.css",
+                    "name": "styles.css",
+                    "hidden": false
                 }
             ],
             "done": true
@@ -375,25 +875,75 @@
                 "es": "README.es.md",
                 "us": "README.md"
             },
-            "language": "node",
-            "entry": null,
+            "language": "html",
+            "entry": "index.html",
             "title": "09-connecting-stylesheet",
             "graded": true,
             "files": [
                 {
-                    "path": ".learn/exercises/09-connecting-stylesheet/README.es.md",
+                    "path": ".learn/exercises/09-connecting-stylesheet/test.js",
+                    "name": "test.js",
+                    "hidden": true
+                },
+                {
+                    "path": "./.devcontainer",
+                    "name": ".devcontainer",
+                    "hidden": true
+                },
+                {
+                    "path": "./.git",
+                    "name": ".git",
+                    "hidden": true
+                },
+                {
+                    "path": "./.github",
+                    "name": ".github",
+                    "hidden": true
+                },
+                {
+                    "path": "./.gitpod.Dockerfile",
+                    "name": ".gitpod.Dockerfile",
+                    "hidden": true
+                },
+                {
+                    "path": "./.gitpod.yml",
+                    "name": ".gitpod.yml",
+                    "hidden": true
+                },
+                {
+                    "path": "./.learn",
+                    "name": ".learn",
+                    "hidden": true
+                },
+                {
+                    "path": "./.vscode",
+                    "name": ".vscode",
+                    "hidden": true
+                },
+                {
+                    "path": "./README.es.md",
                     "name": "README.es.md",
                     "hidden": true
                 },
                 {
-                    "path": ".learn/exercises/09-connecting-stylesheet/README.md",
+                    "path": "./README.md",
                     "name": "README.md",
                     "hidden": true
                 },
                 {
-                    "path": ".learn/exercises/09-connecting-stylesheet/test.js",
-                    "name": "test.js",
+                    "path": "./index.html",
+                    "name": "index.html",
+                    "hidden": false
+                },
+                {
+                    "path": "./learn.json",
+                    "name": "learn.json",
                     "hidden": true
+                },
+                {
+                    "path": "./styles.css",
+                    "name": "styles.css",
+                    "hidden": false
                 }
             ],
             "done": true
@@ -406,25 +956,75 @@
                 "es": "README.es.md",
                 "us": "README.md"
             },
-            "language": "node",
-            "entry": null,
+            "language": "html",
+            "entry": "index.html",
             "title": "10-center-postcard",
             "graded": true,
             "files": [
                 {
-                    "path": ".learn/exercises/10-center-postcard/README.es.md",
+                    "path": ".learn/exercises/10-center-postcard/test.js",
+                    "name": "test.js",
+                    "hidden": true
+                },
+                {
+                    "path": "./.devcontainer",
+                    "name": ".devcontainer",
+                    "hidden": true
+                },
+                {
+                    "path": "./.git",
+                    "name": ".git",
+                    "hidden": true
+                },
+                {
+                    "path": "./.github",
+                    "name": ".github",
+                    "hidden": true
+                },
+                {
+                    "path": "./.gitpod.Dockerfile",
+                    "name": ".gitpod.Dockerfile",
+                    "hidden": true
+                },
+                {
+                    "path": "./.gitpod.yml",
+                    "name": ".gitpod.yml",
+                    "hidden": true
+                },
+                {
+                    "path": "./.learn",
+                    "name": ".learn",
+                    "hidden": true
+                },
+                {
+                    "path": "./.vscode",
+                    "name": ".vscode",
+                    "hidden": true
+                },
+                {
+                    "path": "./README.es.md",
                     "name": "README.es.md",
                     "hidden": true
                 },
                 {
-                    "path": ".learn/exercises/10-center-postcard/README.md",
+                    "path": "./README.md",
                     "name": "README.md",
                     "hidden": true
                 },
                 {
-                    "path": ".learn/exercises/10-center-postcard/test.js",
-                    "name": "test.js",
+                    "path": "./index.html",
+                    "name": "index.html",
+                    "hidden": false
+                },
+                {
+                    "path": "./learn.json",
+                    "name": "learn.json",
                     "hidden": true
+                },
+                {
+                    "path": "./styles.css",
+                    "name": "styles.css",
+                    "hidden": false
                 }
             ],
             "done": true
@@ -437,25 +1037,75 @@
                 "es": "README.es.md",
                 "us": "README.md"
             },
-            "language": "node",
-            "entry": null,
+            "language": "html",
+            "entry": "index.html",
             "title": "11-postcard-divisions",
             "graded": true,
             "files": [
                 {
-                    "path": ".learn/exercises/11-postcard-divisions/README.es.md",
+                    "path": ".learn/exercises/11-postcard-divisions/test.js",
+                    "name": "test.js",
+                    "hidden": true
+                },
+                {
+                    "path": "./.devcontainer",
+                    "name": ".devcontainer",
+                    "hidden": true
+                },
+                {
+                    "path": "./.git",
+                    "name": ".git",
+                    "hidden": true
+                },
+                {
+                    "path": "./.github",
+                    "name": ".github",
+                    "hidden": true
+                },
+                {
+                    "path": "./.gitpod.Dockerfile",
+                    "name": ".gitpod.Dockerfile",
+                    "hidden": true
+                },
+                {
+                    "path": "./.gitpod.yml",
+                    "name": ".gitpod.yml",
+                    "hidden": true
+                },
+                {
+                    "path": "./.learn",
+                    "name": ".learn",
+                    "hidden": true
+                },
+                {
+                    "path": "./.vscode",
+                    "name": ".vscode",
+                    "hidden": true
+                },
+                {
+                    "path": "./README.es.md",
                     "name": "README.es.md",
                     "hidden": true
                 },
                 {
-                    "path": ".learn/exercises/11-postcard-divisions/README.md",
+                    "path": "./README.md",
                     "name": "README.md",
                     "hidden": true
                 },
                 {
-                    "path": ".learn/exercises/11-postcard-divisions/test.js",
-                    "name": "test.js",
+                    "path": "./index.html",
+                    "name": "index.html",
+                    "hidden": false
+                },
+                {
+                    "path": "./learn.json",
+                    "name": "learn.json",
                     "hidden": true
+                },
+                {
+                    "path": "./styles.css",
+                    "name": "styles.css",
+                    "hidden": false
                 }
             ],
             "done": true
@@ -468,35 +1118,75 @@
                 "es": "README.es.md",
                 "us": "README.md"
             },
-            "language": "node",
-            "entry": null,
+            "language": "html",
+            "entry": "index.html",
             "title": "11.1-header-content",
             "graded": true,
             "files": [
                 {
-                    "path": ".learn/exercises/11.1-header-content/README.es.md",
+                    "path": ".learn/exercises/11.1-header-content/test.js",
+                    "name": "test.js",
+                    "hidden": true
+                },
+                {
+                    "path": "./.devcontainer",
+                    "name": ".devcontainer",
+                    "hidden": true
+                },
+                {
+                    "path": "./.git",
+                    "name": ".git",
+                    "hidden": true
+                },
+                {
+                    "path": "./.github",
+                    "name": ".github",
+                    "hidden": true
+                },
+                {
+                    "path": "./.gitpod.Dockerfile",
+                    "name": ".gitpod.Dockerfile",
+                    "hidden": true
+                },
+                {
+                    "path": "./.gitpod.yml",
+                    "name": ".gitpod.yml",
+                    "hidden": true
+                },
+                {
+                    "path": "./.learn",
+                    "name": ".learn",
+                    "hidden": true
+                },
+                {
+                    "path": "./.vscode",
+                    "name": ".vscode",
+                    "hidden": true
+                },
+                {
+                    "path": "./README.es.md",
                     "name": "README.es.md",
                     "hidden": true
                 },
                 {
-                    "path": ".learn/exercises/11.1-header-content/README.md",
+                    "path": "./README.md",
                     "name": "README.md",
                     "hidden": true
                 },
                 {
-                    "path": ".learn/exercises/11.1-header-content/solution.hide.css",
-                    "name": "solution.hide.css",
+                    "path": "./index.html",
+                    "name": "index.html",
+                    "hidden": false
+                },
+                {
+                    "path": "./learn.json",
+                    "name": "learn.json",
                     "hidden": true
                 },
                 {
-                    "path": ".learn/exercises/11.1-header-content/solution.hide.html",
-                    "name": "solution.hide.html",
-                    "hidden": true
-                },
-                {
-                    "path": ".learn/exercises/11.1-header-content/test.js",
-                    "name": "test.js",
-                    "hidden": true
+                    "path": "./styles.css",
+                    "name": "styles.css",
+                    "hidden": false
                 }
             ],
             "done": true
@@ -509,25 +1199,75 @@
                 "es": "README.es.md",
                 "us": "README.md"
             },
-            "language": "node",
-            "entry": null,
+            "language": "html",
+            "entry": "index.html",
             "title": "11.2-header-styles",
             "graded": true,
             "files": [
                 {
-                    "path": ".learn/exercises/11.2-header-styles/README.es.md",
+                    "path": ".learn/exercises/11.2-header-styles/test.js",
+                    "name": "test.js",
+                    "hidden": true
+                },
+                {
+                    "path": "./.devcontainer",
+                    "name": ".devcontainer",
+                    "hidden": true
+                },
+                {
+                    "path": "./.git",
+                    "name": ".git",
+                    "hidden": true
+                },
+                {
+                    "path": "./.github",
+                    "name": ".github",
+                    "hidden": true
+                },
+                {
+                    "path": "./.gitpod.Dockerfile",
+                    "name": ".gitpod.Dockerfile",
+                    "hidden": true
+                },
+                {
+                    "path": "./.gitpod.yml",
+                    "name": ".gitpod.yml",
+                    "hidden": true
+                },
+                {
+                    "path": "./.learn",
+                    "name": ".learn",
+                    "hidden": true
+                },
+                {
+                    "path": "./.vscode",
+                    "name": ".vscode",
+                    "hidden": true
+                },
+                {
+                    "path": "./README.es.md",
                     "name": "README.es.md",
                     "hidden": true
                 },
                 {
-                    "path": ".learn/exercises/11.2-header-styles/README.md",
+                    "path": "./README.md",
                     "name": "README.md",
                     "hidden": true
                 },
                 {
-                    "path": ".learn/exercises/11.2-header-styles/test.js",
-                    "name": "test.js",
+                    "path": "./index.html",
+                    "name": "index.html",
+                    "hidden": false
+                },
+                {
+                    "path": "./learn.json",
+                    "name": "learn.json",
                     "hidden": true
+                },
+                {
+                    "path": "./styles.css",
+                    "name": "styles.css",
+                    "hidden": false
                 }
             ],
             "done": true
@@ -540,25 +1280,75 @@
                 "es": "README.es.md",
                 "us": "README.md"
             },
-            "language": "node",
-            "entry": null,
+            "language": "html",
+            "entry": "index.html",
             "title": "12-split-postcard-body",
             "graded": true,
             "files": [
                 {
-                    "path": ".learn/exercises/12-split-postcard-body/README.es.md",
+                    "path": ".learn/exercises/12-split-postcard-body/test.js",
+                    "name": "test.js",
+                    "hidden": true
+                },
+                {
+                    "path": "./.devcontainer",
+                    "name": ".devcontainer",
+                    "hidden": true
+                },
+                {
+                    "path": "./.git",
+                    "name": ".git",
+                    "hidden": true
+                },
+                {
+                    "path": "./.github",
+                    "name": ".github",
+                    "hidden": true
+                },
+                {
+                    "path": "./.gitpod.Dockerfile",
+                    "name": ".gitpod.Dockerfile",
+                    "hidden": true
+                },
+                {
+                    "path": "./.gitpod.yml",
+                    "name": ".gitpod.yml",
+                    "hidden": true
+                },
+                {
+                    "path": "./.learn",
+                    "name": ".learn",
+                    "hidden": true
+                },
+                {
+                    "path": "./.vscode",
+                    "name": ".vscode",
+                    "hidden": true
+                },
+                {
+                    "path": "./README.es.md",
                     "name": "README.es.md",
                     "hidden": true
                 },
                 {
-                    "path": ".learn/exercises/12-split-postcard-body/README.md",
+                    "path": "./README.md",
                     "name": "README.md",
                     "hidden": true
                 },
                 {
-                    "path": ".learn/exercises/12-split-postcard-body/test.js",
-                    "name": "test.js",
+                    "path": "./index.html",
+                    "name": "index.html",
+                    "hidden": false
+                },
+                {
+                    "path": "./learn.json",
+                    "name": "learn.json",
                     "hidden": true
+                },
+                {
+                    "path": "./styles.css",
+                    "name": "styles.css",
+                    "hidden": false
                 }
             ],
             "done": true
@@ -649,5 +1439,5 @@
     ],
     "bugsLink": null,
     "videoSolutions": false,
-    "session": 6240039575005423000
+    "session": 1035609512510968800
 }
